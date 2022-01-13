@@ -7,3 +7,5 @@ Using in the terminal to run web
 ```sh
 nodemon app
 ```
+
+Use [commits](../../commits) to refer to scss learning steps
