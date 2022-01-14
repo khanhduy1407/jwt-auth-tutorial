@@ -8,4 +8,4 @@ Using in the terminal to run web
 nodemon app
 ```
 
-Use [commits](../../commits) to refer to scss learning steps
+Use [commits](../../commits) to refer to the learning steps
